@@ -1,0 +1,2 @@
+from .datacube import IFUcube
+
